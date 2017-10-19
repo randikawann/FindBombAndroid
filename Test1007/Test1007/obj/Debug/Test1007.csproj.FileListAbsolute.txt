@@ -1,0 +1,16 @@
+E:\VSTestProject\Test1007\Test1007\Test1007\bin\Debug\Test1007.dll
+E:\VSTestProject\Test1007\Test1007\Test1007\bin\Debug\Test1007.pdb
+E:\VSTestProject\Test1007\Test1007\Test1007\bin\Debug\Xamarin.Forms.Core.dll
+E:\VSTestProject\Test1007\Test1007\Test1007\bin\Debug\Xamarin.Forms.Platform.dll
+E:\VSTestProject\Test1007\Test1007\Test1007\bin\Debug\Xamarin.Forms.Xaml.dll
+E:\VSTestProject\Test1007\Test1007\Test1007\bin\Debug\Xamarin.Forms.Core.pdb
+E:\VSTestProject\Test1007\Test1007\Test1007\bin\Debug\Xamarin.Forms.Core.xml
+E:\VSTestProject\Test1007\Test1007\Test1007\bin\Debug\Xamarin.Forms.Platform.pdb
+E:\VSTestProject\Test1007\Test1007\Test1007\bin\Debug\Xamarin.Forms.Xaml.pdb
+E:\VSTestProject\Test1007\Test1007\Test1007\bin\Debug\Xamarin.Forms.Xaml.xml
+E:\VSTestProject\Test1007\Test1007\Test1007\obj\Debug\Test1007.csprojResolveAssemblyReference.cache
+E:\VSTestProject\Test1007\Test1007\Test1007\obj\Debug\Test1007.csproj.CoreCompileInputs.cache
+E:\VSTestProject\Test1007\Test1007\Test1007\obj\Debug\Test1007.MainPage.xaml.g.cs
+E:\VSTestProject\Test1007\Test1007\Test1007\obj\Debug\Test1007.App.xaml.g.cs
+E:\VSTestProject\Test1007\Test1007\Test1007\obj\Debug\Test1007.dll
+E:\VSTestProject\Test1007\Test1007\Test1007\obj\Debug\Test1007.pdb
